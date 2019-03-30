@@ -13,7 +13,7 @@ No se recogerán otro tipo de pruebas. Pruebas que se hacen online, en la propia
    - Un README.md con una _breve_ descripción de todo lo incluido, detalles adicionales como tiempo proporcionado para la prueba, forma de proceder, punto del proceso en el que se realizó la prueba (antes de hacer ninguna entrevista, al final del proceso, a la mitad del mismo), cómo fue la evaluación de la prueba (revisión con el candidato defendiendo el código, una simple revisión, sin respuesta sobre la prueba sólo la aceptación o rechazo...), y en general cualquier otro detalle que sea relevante _sobre la prueba y su realización_ dentro del proceso de selección.
    - El enunciado original enviado por la empresa, incluyendo enlaces apropiados, explicaciones adicionales, etc.
    - Una carpeta o archivo zip con cualquier material proporcionado por la empresa (ficheros con datos de ejemplo, imagenes, etc)
-   - Opcionalmente, una segunda carpeta con la solución enviada por vosotros como candidatos
+   - Opcionalmente, una segunda carpeta con la solución enviada por vosotros como candidatos (Nota: También se aceptan PR con soluciones a pruebas ya presentes en el repo: Simplemente cread una carpeta más de solucion y meted ahí la vuestra)
 
 El proyecto aceptaá cualquier PR que vaya así ordenado.
 
