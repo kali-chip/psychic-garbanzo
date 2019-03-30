@@ -1,0 +1,114 @@
+[
+  {
+    "title": "The Matrix",
+    "year": 1999,
+    "director": "Andy Wachowski, Larry Wachowski",
+    "cast": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving, Joe Pantoliano",
+    "genre": "Science fiction",
+    "notes": "won 4 Oscars"
+  },
+  {
+    "title": "Futurama: Bender's Big Score",
+    "year": 2007,
+    "director": "Dwayne Carey-Hill",
+    "cast": "John DiMaggio, Billy West, Katey Sagal",
+    "genre": "Comedy",
+    "notes": "Freaking awesome"
+  },
+  {
+    "title": "American Psycho",
+    "year": 2000,
+    "director": "Mary Harron",
+    "cast": "Christian Bale, Chloë Sevigny, Willem Dafoe",
+    "genre": "Comedy, Thriller",
+    "notes": "Lionsgate; based on novel by Bret Easton Ellis"
+  },
+  {
+    "title": "Oldboy",
+    "year": 2013,
+    "director": "Spike Lee",
+    "cast": "Josh Brolin, Elizabeth Olsen, Sharlto Copley",
+    "genre": "Thriller",
+    "notes": "FilmDistrict"
+  },
+  {
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "year": 2004,
+    "director": "Michel Gondry",
+    "cast": "Jim Carrey, Kate Winslet, Kirsten Dunst, Mark Ruffalo, Elijah Wood, Tom Wilkinson",
+    "genre": "Drama, Science fiction",
+    "notes": "Focus Features"
+  },
+  {
+    "title": "Brick",
+    "year": 2005,
+    "director": "Rian Johnson",
+    "cast": "Joseph Gordon-Levitt, Emilie de Ravin, Nora Zehetner",
+    "genre": "Neo-noir",
+    "notes": null
+  },
+  {
+    "title": " V for Vendetta",
+    "year": 2006,
+    "director": "James McTeigue",
+    "cast": "Natalie Portman, Hugo Weaving, Stephen Rea, John Hurt",
+    "genre": "Thriller",
+    "notes": "based on V for Vendetta by Alan Moore"
+  },
+  {
+    "title": "Sin City: A Dame to Kill For",
+    "year": 2014,
+    "director": "Robert Rodriguez",
+    "cast": "Mickey Rourke, Jessica Alba, Josh Brolin, Bruce Willis",
+    "genre": "Thriller",
+    "notes": "Dimension Films, Based on the novel A Dame to Kill For by Frank Miller, Sequel to Sin City (2005)"
+  },
+  {
+    "title": "Donnie Darko",
+    "year": 2001,
+    "director": "Richard Kelly",
+    "cast": "Jake Gyllenhaal, Jena Malone, Drew Barrymore, Mary McDonnell, Katharine Ross, Patrick Swayze, Noah Wyle",
+    "genre": "Science fiction",
+    "notes": null
+  },
+  {
+    "title": "Dark City",
+    "year": 1950,
+    "director": "William Dieterle",
+    "cast": "Charlton Heston, Lizabeth Scott",
+    "genre": "Film noir",
+    "notes": "Heston's first film"
+  },
+  {
+    "title": "Twelve Monkeys",
+    "year": 1995,
+    "director": "Terry Gilliam",
+    "cast": "Bruce Willis, Madeleine Stowe, Brad Pitt",
+    "genre": "Science fiction",
+    "notes": null
+  },
+  {
+    "title": "Two Bits",
+    "year": 1995,
+    "director": "James Foley",
+    "cast": "Jerry Barone, Mary Elizabeth Mastrantonio, Al Pacino",
+    "genre": "Drama",
+    "notes": null
+  },
+  {
+    "title": "The Big Lebowski",
+    "year": 1998,
+    "director": "Joel Coen",
+    "cast": "Jeff Bridges, John Goodman, Julianne Moore, Steve Buscemi, John Turturro, Tara Reid, Ben Gazzara",
+    "genre": "Comedy",
+    "notes": "Gramercy Pictures"
+  },
+  {
+    "title": "Fight Club",
+    "year": 1999,
+    "director": "David Fincher",
+    "cast": "Brad Pitt, Edward Norton, Helena Bonham Carter",
+    "genre": "Thriller",
+    "notes": "from Chuck Palahniuk novel"
+  }
+]
