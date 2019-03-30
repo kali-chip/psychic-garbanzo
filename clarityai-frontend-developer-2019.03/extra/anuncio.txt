@@ -1,0 +1,62 @@
+Requirements
+
+Clarity is looking for a frontend developer who can adapt quickly to new challenges and break them down in smaller pieces that a highly productive team will find high quality solutions for.
+
+
+What are we looking for:
+
+    Mandatory technical skills (+2 years of experience):
+
+        Javascript language deep knowledge
+
+        Experience with JavaScript MVC Frameworks (VueJs, Angular, React...)
+
+        Web fundamentals like HTML5 and CSS3
+
+        REST
+
+        Distributed control version experienced (git or hg).
+
+        Understands the basics of Cloud Computing like Amazon Web Services or similar.
+
+        Has good troubleshooting and debugging skills.
+
+    Desirable technological skills (+1 year of experience):
+
+        Java BackEnd Development
+
+        API design and development understanding.
+
+    Love to solve complex problems
+
+    Proactivity, self encouragement, learning willingness personal skills.
+
+    Academic background: Engineering (Computer Science, Telecommunication..).
+
+    Startup way of thinking.
+
+    Strong communication skills. The right candidate can thrive in an environment of asynchronous conversation, since a part of the Clarity team will be based in the US. We expect you to have strong communication skills and be able to create working relationships with coworkers in across various locations.
+
+    Fluency in English.
+
+Hiring Process
+
+    Qualified candidates will receive a short test with programming questions
+    Selected candidates will be invited for a technical interview.
+    Selected candidates will be invited for another interview round to:
+        know more of our product,
+        meet our VP of technology, and
+        check that you will fit in our culture.
+
+What we offer:
+
+    Working on a project with a potential huge impact in the world.
+
+    You'll enjoy a full time position with flexible work shifts and the possibility of remote working some days of the week.
+
+    Our headquarters are located in a beautiful house in Madrid city center (<M> Iglesia).
+
+    A large benefits package for the team.
+
+    Fresh fruit, coffee, tea, beer and other free perks available in the building.
+
