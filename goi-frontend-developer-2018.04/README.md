@@ -1,3 +1,5 @@
+**NOTA: La solución incluída contiene algunas vulnerabilidades, según indica Github. Por esto, he actualizado el `package.json` original y puede que ya no todo funcione. La versión original queda en cualquier caso en el commit anterior.**
+
 ## Datos de la prueba
 
  - Empresa: [GOI](https://www.letsgoi.com/)
